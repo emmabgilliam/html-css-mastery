@@ -2,4 +2,4 @@
 
 By Emma Gilliam, Intro Coding for Journalists class
 
-This repo is a class assignment for html/css mastery. It is due September 8, 2023
+This repo is a class assignment for html/css mastery. It is due September 15, 2023
